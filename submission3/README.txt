@@ -1,12 +1,12 @@
 Link to unlisted YouTube video:
-
+https://youtu.be/08dFHJMbPgs
 
 Two public links to the Concept Map:
 PDF:
-
+https://github.com/aag13/cse713/blob/main/submission3/cse713_group%2012_concept_map.pdf
 
 Native/original format:
-
+https://github.com/aag13/cse713/blob/main/submission3/cse713_group%2012_concept_map.drawio
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
