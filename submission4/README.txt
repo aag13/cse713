@@ -8,7 +8,7 @@ Paper title:
 Genre Classification: A Machine Learning Based Comparative Study of Classical Bengali Literature
 
 Public link to the slide:
-
+https://docs.google.com/presentation/d/1MO5zA4AK4OlFEROpLO6aXMLeTFaRY9nD/edit?usp=sharing&ouid=114439381625049727393&rtpof=true&sd=true
 
 Paper (1st draft):
 
