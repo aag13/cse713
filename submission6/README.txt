@@ -2,7 +2,7 @@ Overleaf link:
 https://www.overleaf.com/project/64986f5f047810ba77a5f832
 
 Unlisted YouTube video:
-
+https://youtu.be/ZPpYM7WWeCo
 
 Conference submitted paper / paper submission / login Link:
 
@@ -14,7 +14,7 @@ Paper (final draft):
 
 
 Paper presentation:
-
+https://docs.google.com/presentation/d/1m5Uoeir2HulRzdQ2aHGVLis7qo8GCCQ-/edit?usp=sharing&ouid=114439381625049727393&rtpof=true&sd=true
 
 Receipt email pdf:
 
