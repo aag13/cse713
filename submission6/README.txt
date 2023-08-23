@@ -14,7 +14,7 @@ Paper (final draft):
 https://github.com/aag13/cse713/blob/main/submission6/2023_Summer___CSE713___Group_12___Genre_Classification__A_Machine_Learning_Based_Comparative_Study_of_Classical_Bengali_Literature.pdf
 
 Paper presentation:
-https://docs.google.com/presentation/d/1m5Uoeir2HulRzdQ2aHGVLis7qo8GCCQ-/edit?usp=sharing&ouid=114439381625049727393&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1m5Uoeir2HulRzdQ2aHGVLis7qo8GCCQ-/edit?usp=drive_link&ouid=114439381625049727393&rtpof=true&sd=true
 
 Receipt email pdf:
 
